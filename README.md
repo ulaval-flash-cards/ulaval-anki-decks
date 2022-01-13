@@ -7,6 +7,7 @@ This repository's mission is to share flash cards from courses at University Lav
   - [Setup A : I just want some decks](#setup-a--i-just-want-some-decks)
   - [Setup B : I want to contribute](#setup-b--i-want-to-contribute)
   - [Actions](#actions)
+  - [How to contribute ?](#how-to-contribute-)
 
 ## Why?
 
@@ -59,3 +60,8 @@ want to participate, you'll want to follow the steps describe in the
 
 ```bash
 git clone https://github.com/ulaval-flash-cards/ulaval-anki-decks.git
+```
+
+Keep in mind that you can also propose modifications in pull requests :
+
+![](attachment/2022-01-13-10-57-17.png)
