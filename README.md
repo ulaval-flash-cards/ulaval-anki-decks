@@ -50,3 +50,12 @@ Now, you're all set! What can you do?
 - Paste an image : `Ctrl + Alt + V`. From `pasteImage`
 - Format tables : `Alt + Shift + F` and `Ctrl + Shift + I` on Linux. From `Markdown All in One`
 - Markdown options : `Alt + M`. From `docs-markdown`
+
+## How to contribute ?
+
+Everyone is welcome to participate in this repository. If you do
+want to participate, you'll want to follow the steps describe in the
+[setup](#setup) section. After those steps you'll need to clone the repository.
+
+```bash
+git clone https://github.com/ulaval-flash-cards/ulaval-anki-decks.git
