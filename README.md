@@ -64,4 +64,4 @@ git clone https://github.com/ulaval-flash-cards/ulaval-anki-decks.git
 
 Keep in mind that you can also propose modifications in pull requests :
 
-![](attachment/2022-01-13-10-57-17.png)
+![](attachment/2021-09-16-18-11-00.png)
